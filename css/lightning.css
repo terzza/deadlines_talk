@@ -1,0 +1,39 @@
+#countdown {
+    position: absolute;
+    bottom: 0px;
+    padding: 30px;
+    font-size: 18px;
+    color: #000000;
+}
+
+
+#slide0, #slide0 * {
+    text-align: center;
+    padding: 50px;
+}
+
+.slide h1 {
+    text-align: center;
+}
+
+.lifemonths {
+    font-size: 18px;
+    line-height: 0px;
+    font-family: monospace;
+}
+
+.slide {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#clippy {
+    text-align: right;
+    padding: 20px;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
+
